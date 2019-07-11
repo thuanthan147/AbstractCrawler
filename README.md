@@ -1,2 +1,2 @@
 # AbstractCrawler
-Abstract crawler to re-implementin for all page
+Abstract crawler to re-implement for all page
